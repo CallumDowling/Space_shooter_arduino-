@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoJoystick.Plugins", "ArduinoJoystick.Plugins.csproj", "{EA1952B4-FAC2-0C94-6C12-B9C5E6F0E64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoJoystick", "ArduinoJoystick.csproj", "{18B0F3F4-3CC8-2543-5391-F1B24A30AB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoJoystick.Editor.Plugins", "ArduinoJoystick.Editor.Plugins.csproj", "{9B248EEF-04FA-7ABC-DD48-8B0292FED2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoJoystick.Editor", "ArduinoJoystick.Editor.csproj", "{9F19F707-1C05-87E0-A28B-925D92EC9617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA1952B4-FAC2-0C94-6C12-B9C5E6F0E64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1952B4-FAC2-0C94-6C12-B9C5E6F0E64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1952B4-FAC2-0C94-6C12-B9C5E6F0E64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1952B4-FAC2-0C94-6C12-B9C5E6F0E64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B0F3F4-3CC8-2543-5391-F1B24A30AB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B0F3F4-3CC8-2543-5391-F1B24A30AB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B0F3F4-3CC8-2543-5391-F1B24A30AB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B0F3F4-3CC8-2543-5391-F1B24A30AB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B248EEF-04FA-7ABC-DD48-8B0292FED2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B248EEF-04FA-7ABC-DD48-8B0292FED2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B248EEF-04FA-7ABC-DD48-8B0292FED2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B248EEF-04FA-7ABC-DD48-8B0292FED2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F19F707-1C05-87E0-A28B-925D92EC9617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F19F707-1C05-87E0-A28B-925D92EC9617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F19F707-1C05-87E0-A28B-925D92EC9617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F19F707-1C05-87E0-A28B-925D92EC9617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
